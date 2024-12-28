@@ -1,1 +1,1 @@
-# vercel_quiz_app_2
+# vercel_quiz_app

@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "id": 2,
+      "question": "What is 5 + 7?",
+      "options": ["10", "12", "14", "15"],
+      "answer": "12"
+    },
+    {
+      "id": 3,
+      "question": "Who wrote 'Hamlet'?",
+      "options": ["Leo Tolstoy", "William Shakespeare", "Mark Twain", "Jane Austen"],
+      "answer": "William Shakespeare"
+    }
+  ]
+  
